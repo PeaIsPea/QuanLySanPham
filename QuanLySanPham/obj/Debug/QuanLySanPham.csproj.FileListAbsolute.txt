@@ -1,0 +1,11 @@
+D:\HOC TAP\C#v2\Winform\QuanLySanPham\QuanLySanPham\bin\Debug\QuanLySanPham.exe.config
+D:\HOC TAP\C#v2\Winform\QuanLySanPham\QuanLySanPham\bin\Debug\QuanLySanPham.exe
+D:\HOC TAP\C#v2\Winform\QuanLySanPham\QuanLySanPham\bin\Debug\QuanLySanPham.pdb
+D:\HOC TAP\C#v2\Winform\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.AssemblyReference.cache
+D:\HOC TAP\C#v2\Winform\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.Properties.Resources.resources
+D:\HOC TAP\C#v2\Winform\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.GenerateResource.cache
+D:\HOC TAP\C#v2\Winform\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.CoreCompileInputs.cache
+D:\HOC TAP\C#v2\Winform\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.exe
+D:\HOC TAP\C#v2\Winform\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.pdb
+D:\HOC TAP\C#v2\Winform\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.FrmDanhMuc.resources
+D:\HOC TAP\C#v2\Winform\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.FrmSanPham.resources
